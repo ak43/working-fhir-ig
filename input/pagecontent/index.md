@@ -4,7 +4,7 @@ This is the Ethiopian SMART Guidelines Implementation Guide.
 
 ## Continuous Build
 
-* [Continuous Build](https://build.fhir.org/ig/ak43/working-fhir-ig/branches/main/)
+* [Continuous Build](https://build.fhir.org/ig/ak43/working-fhir-ig/)
 * [GitHub Repository](https://github.com/ak43/working-fhir-ig)
 
 ## Changes and Feedback

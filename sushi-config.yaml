@@ -1,5 +1,5 @@
 id: AK43-IG
-canonical: http://lcoalhost:8080/ak43
+canonical: http://moh.gov.et/ak43/fhir/base
 name: AKBase
 title: Ethiopia Base Implementation Guide 
 description: An empty Implementation Guide to be used as a starting point for building SMART Guidelines Implementation Guides
