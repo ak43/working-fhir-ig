@@ -1,19 +1,12 @@
-Empty IG
----
-This is an empty IG
-<br> </br>
-###
-### Publication
-This ImplementationGuide is published in the following locations:
+# WHO SMART GUIDELINES - AK Base IG
 
-Continuous Build: __http://build.fhir.org/ig/openhie/fhir-ig-empty/branches/main/index.html__  
-Canonical / permanent URL: 
-<br> </br>
+This is the Ethiopian SMART Guidelines Implementation Guide.
 
-### Issues
-Issues and change requests are managed here:  
+## Continuous Build
 
-Issues:  __https://github.com/openhie/fhir-ig-empty/issues__  
-Kanban board:  __https://github.com/openhie/fhir-ig-empty/projects/1__  
+* [Continuous Build](https://build.fhir.org/ig/ak43/working-fhir-ig/)
+* [GitHub Repository](https://github.com/ak43/working-fhir-ig)
 
----
+## Changes and Feedback
+
+Feedback and issues about this Implementation Guide can be submitted via the [issues](https://github.com/ak43/working-fhir-ig/issues) page.
